@@ -1,0 +1,5 @@
+Inheritance: When you extend a super class, the sub-class automatically inherit the fields and the public methods insides the 
+super class. This feature saves us a lot of time when we are programming.
+
+Polymorphism: Two objects related by inheritance can have methods with the same name in different ways. Which object invokes a 
+method decides which version of the method to use.
